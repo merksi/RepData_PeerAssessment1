@@ -3,7 +3,7 @@ title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document:
     keep_md: true
-  Author: IM, date 2015-02-15
+  Author: IM, date 2015-02-15. Test
 ---
 
 
